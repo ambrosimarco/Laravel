@@ -24,7 +24,6 @@
           <td>Colore</td>
           <td>Data</td>
           <td>Luogo</td>
-          <td colspan = 2></td>
         </tr>
     </thead>
     <tbody>
